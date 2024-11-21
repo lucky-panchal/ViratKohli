@@ -1,0 +1,18 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --primary-color: #3498db;
+  --secondary-color: #f1c40f;
+  --background-color: #f9f9f9;
+  --text-color: #333;
+
+  /* Fonts */
+  --font-family: Arial, sans-serif;
+  --font-size: 16px;
+  --font-weight: 400;
+
+  /* Effects */
+  --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --border-radius: 4px;
+  --transition-duration: 0.3s;
+}
