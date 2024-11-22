@@ -71,10 +71,6 @@
   position: relative;
 }
 .textfield {
-  border-radius: 6px;
-  border-style: solid;
-  border-color: rgba(0, 0, 0, 0.1);
-  border-width: 1px;
   padding: 8px;
   display: flex;
   flex-direction: row;
